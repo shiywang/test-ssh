@@ -1,1 +1,0 @@
-initSidebarItems({"static":[["DEFAULT_QUAY_LABEL_FILTER",""],["DEFAULT_QUAY_MANIFESTREF_KEY",""],["DEFAULT_QUAY_REPOSITORY",""]],"struct":[["QuayMetadataFetchPlugin","Metadata fetcher for quay.io API."]]});

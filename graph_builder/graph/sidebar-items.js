@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["create_graph",""],["index","Serve Cincinnati graph requests."],["register_metrics","Register relevant metrics to a prometheus registry."],["run",""]],"struct":[["State",""]],"type":[["RwLock","A reader-writer lock"]]});

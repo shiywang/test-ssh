@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["AppSettings","Runtime application settings (validated config)."]]});
